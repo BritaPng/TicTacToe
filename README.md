@@ -1,2 +1,2 @@
 # TicTacToe
-First python project, just a simple project using graphics library.
+First python project, just a simple tic-tac-toe game using the graphics library.
