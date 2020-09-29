@@ -1,2 +1,2 @@
 # TicTacToe
-Simple project using graphics in python for the first time
+First python project, just a simple project using graphics library.
